@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/Macro-Munchies/static/css/main.6e2299a5.css",
-    "main.js": "/Macro-Munchies/static/js/main.10b5ca94.js",
-    "static/media/Map Stand-in.png": "/Macro-Munchies/static/media/Map Stand-in.f3c6aa955e11b82c01f1.png",
+    "main.css": "/Macro-Munchies/static/css/main.53b578fa.css",
+    "main.js": "/Macro-Munchies/static/js/main.a0915f04.js",
     "static/media/Logo.png": "/Macro-Munchies/static/media/Logo.ed312ddbf9a59864cd4f.png",
     "static/media/Campus Schedule.png": "/Macro-Munchies/static/media/Campus Schedule.4599008d7145450ede4c.png",
     "static/media/Tonight's meals.png": "/Macro-Munchies/static/media/Tonight's meals.03df81505890ce454d30.png",
@@ -10,11 +9,11 @@
     "static/media/User icon.png": "/Macro-Munchies/static/media/User icon.d1438dd65ea7a398508d.png",
     "static/media/Shopping cart.png": "/Macro-Munchies/static/media/Shopping cart.0edb59010b1db3cbc904.png",
     "index.html": "/Macro-Munchies/index.html",
-    "main.6e2299a5.css.map": "/Macro-Munchies/static/css/main.6e2299a5.css.map",
-    "main.10b5ca94.js.map": "/Macro-Munchies/static/js/main.10b5ca94.js.map"
+    "main.53b578fa.css.map": "/Macro-Munchies/static/css/main.53b578fa.css.map",
+    "main.a0915f04.js.map": "/Macro-Munchies/static/js/main.a0915f04.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e2299a5.css",
-    "static/js/main.10b5ca94.js"
+    "static/css/main.53b578fa.css",
+    "static/js/main.a0915f04.js"
   ]
 }
