@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Macro-Munchies/static/css/main.53b578fa.css",
+    "main.css": "/Macro-Munchies/static/css/main.cb478338.css",
     "main.js": "/Macro-Munchies/static/js/main.a0915f04.js",
     "static/media/Logo.png": "/Macro-Munchies/static/media/Logo.ed312ddbf9a59864cd4f.png",
     "static/media/Campus Schedule.png": "/Macro-Munchies/static/media/Campus Schedule.4599008d7145450ede4c.png",
@@ -9,11 +9,11 @@
     "static/media/User icon.png": "/Macro-Munchies/static/media/User icon.d1438dd65ea7a398508d.png",
     "static/media/Shopping cart.png": "/Macro-Munchies/static/media/Shopping cart.0edb59010b1db3cbc904.png",
     "index.html": "/Macro-Munchies/index.html",
-    "main.53b578fa.css.map": "/Macro-Munchies/static/css/main.53b578fa.css.map",
+    "main.cb478338.css.map": "/Macro-Munchies/static/css/main.cb478338.css.map",
     "main.a0915f04.js.map": "/Macro-Munchies/static/js/main.a0915f04.js.map"
   },
   "entrypoints": [
-    "static/css/main.53b578fa.css",
+    "static/css/main.cb478338.css",
     "static/js/main.a0915f04.js"
   ]
 }
